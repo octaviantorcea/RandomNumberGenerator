@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random_number_generator_label">Random Number Generator</string>
+    <string name="numbers_hint_label">how many numbers? (max. 10)</string>
+    <string name="minValue_label">min value (min. 0)</string>
+    <string name="maxValue_label">max value (max. 100)</string>
+    <string name="generate_label">Generate numbers</string>
+    <string name="reset_label">RESET</string>
+    <string name="shake_label">Shake now to generate numbers!</string>
+    <string name="shownr_label">Show numbers!</string>
+    <string name="shakeAgain_label">Shake other numbers!</string>
+    <string name="placeholder">N100N</string>
+</resources>
